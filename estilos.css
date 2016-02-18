@@ -2,14 +2,13 @@
 body{ text-align: center; }
 
 #menu{ color: white; }
-<<<<<<< HEAD
-#cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;background:red; }
+
 #xxx{ color: purpure; }
-=======
+
 #cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;background:green; }
 
 h2{ color:#AB2BA6;
     font-famiy:sans-serif;}
->>>>>>> 39797e7380c5db4abbd5bf58d742bca3c970f974
+
 
 </style>
