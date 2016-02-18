@@ -2,6 +2,6 @@
 body{ text-align: center; }
 
 #menu{ color: white; }
-#cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;background:green; }
+#cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;background:red; }
 
 </style>
