@@ -4,4 +4,7 @@ body{ text-align: center; }
 #menu{ color: white; }
 #cont{ width: 693px; margin: 0 auto 0 auto; text-align: left;background:green; }
 
+h2{ color:#AB2BA6;
+    font-famiy:sans-serif;}
+
 </style>
